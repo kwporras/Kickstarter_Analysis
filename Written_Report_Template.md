@@ -10,11 +10,13 @@ specifically, we focused on when to launch a campaign and with what goal to incr
 
 ### **Analysis of Outcomes Based on Launch Date**
 The chart below displays the count of successful, failed, and canceled theater campaigns over from 2009 to 2017. 
+Theater_Outcomes_vs_Launch.png
 The purpose of this chart is to provide insight as to which month may increase the chances of a successful campaign launch.
 To create this chart the below filters were selected.
 
 ### **Analysis of Outcomes Based on Goals**
 The chart below displays the number of successful, failed, and canceled theater campaigns displayed in various increments.
+Outcomes_vs_goals.png
 Additionally, each increments shows the percentage of successful or failed campaigns per increment.
 The purpose of this chart is to provide insight what kind of set goals are most successful for theater campaigns.
 The chart was created by referencing the percentage formulas.
