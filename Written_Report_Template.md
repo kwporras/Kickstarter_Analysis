@@ -38,12 +38,11 @@ The "=" sign have to come after the "> or <" signs. Additionally, the statement 
   1. The best outcomes seems to be in summer times, particular May and June, in terms of success and quantity.
   2. The last quarter (October, November, December) has some of the worst outcomes with more failed campaigns and low volume. 
 
-- What can you conclude about the Outcomes based on Goals?
-   
-The majority of successful campaigns are set below $10,000 and those below $5000 have the highest percentage of success. 
+- What can you conclude about the Outcomes based on Goals?   
+  The majority of successful campaigns are set below $10,000 and those below $5000 have the highest percentage of success. 
+  
 - What are some limitations of this dataset?
-  
-The sample size is too small and the location information is vague which make it difficult to know where to actually launch the plays. 
+  The sample size is too small and the location information is vague which make it difficult to know where to actually launch the plays. 
+
 - What are some other possible tables and/or graphs that we could create?
-  
-A pie chart would be interesting to look options other than theaters or a Histogram to filter out any outliers that may skewing the analysis.
+  A pie chart would be interesting to look options other than theaters or a Histogram to filter out any outliers that may skewing the analysis.
