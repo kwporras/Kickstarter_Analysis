@@ -38,7 +38,7 @@ The "=" sign have to come after the "> or <" signs. Additionally, the statement 
 1. The best outcomes seems to be in summer times, particular May and June, in terms of success and quantity.
 2. The last quarter (October, November, December) has some of the worst outcomes with more failed campaigns and low volume. 
 
-- What can you conclude about the Outcomes based on Goals?   
+- What can you conclude about the Outcomes based on Goals?
   The majority of successful campaigns are set below $10,000 and those below $5000 have the highest percentage of success. 
   
 - What are some limitations of this dataset?
