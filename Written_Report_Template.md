@@ -24,13 +24,13 @@ Additionally, each increments shows the percentage of successful or failed campa
 The purpose of this chart is to provide insight into what kind of set goals are most successful for theater campaigns.
 The chart was created by referencing the percentage formulas.
 Percentage formulas are straight forward, however the countifs formula took a little work.
-An example of the countifs formula (https://github.com/kwporras/kickstarter-analysis/blob/d38f7a3e95d0eb7cfcb8c71e23d375cd1be9892b/Outcomes%20Base%20on%20Goals%20Coutifs%20formula.png) is shown [here.](https://github.com/kwporras/kickstarter-analysis/blob/d38f7a3e95d0eb7cfcb8c71e23d375cd1be9892b/Outcomes%20Base%20on%20Goals%20Coutifs%20formula.png)
+An example of the countifs formula is shown [here.](https://github.com/kwporras/kickstarter-analysis/blob/d38f7a3e95d0eb7cfcb8c71e23d375cd1be9892b/Outcomes%20Base%20on%20Goals%20Coutifs%20formula.png)
 
 
 
 ### **Challenges and Difficulties Encountered**
 The counties countifs formula could be difficult for a few people to write, particularly when entering greater/less or equal to signs in the formula. 
-The "=" sign have to come after the "> or <" signs. Additionally, the statement needs to but placed in quotation marks.
+The "=" sign have to come after the "> or <" signs. Additionally, the statement needs to be placed in quotation marks.
 
 ## **Results**
 
