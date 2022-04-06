@@ -46,3 +46,9 @@ The "=" sign have to come after the "> or <" signs. Additionally, the statement 
 
 - What are some other possible tables and/or graphs that we could create?  
   A pie chart would be interesting to look options other than theaters or a Histogram to filter out any outliers that may skewing the analysis.
+
+Resources
+Excel 
+Github
+
+
